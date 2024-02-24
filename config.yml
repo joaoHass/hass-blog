@@ -1,0 +1,41 @@
+baseURL: "https://joaohass.com.br/"
+languageCode: "en-us"
+theme: "m10c"
+title: "João Hass"
+paginate: 15
+
+languages:
+  en:
+    languageCode: "en-us"
+    weight: 1
+  pt-br:
+    languageCode: "pt-br"
+    weight: 2
+
+params:
+  author: "Joao Hass"
+  description: "Programming stuff that I find interesting to share."
+  avatar: "https://media.licdn.com/dms/image/D4D03AQHkmWB6cdcMFw/profile-displayphoto-shrink_800_800/0/1689630774448?e=2147483647&v=beta&t=zbI9JS6HcN85N5I2cIyrWWK-kfuG1XqXlyX7G20dL80"
+  social:
+    - icon: "github"
+      name: "My Github"
+      url: "https://github.com/joaoHass"
+    - icon: "linkedin"
+      name: "My LinkedIn"
+      url: "https://linkedin.com/in/joaoHass"
+  style:
+    darkestColor: "#172A3A"
+    darkColor: "#004346"
+    lightColor: "#508991"
+    lightestColor: "#74B3CE"
+    primaryColor: "#09BC8A"
+
+menus:
+main:
+  name: "Home"
+  pageRef: "/"
+  weight: 10
+tags:
+  name: "Tags"
+  pageRef: "/tags"
+  weight: 20
