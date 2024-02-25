@@ -23,12 +23,6 @@ params:
     - icon: "linkedin"
       name: "My LinkedIn"
       url: "https://linkedin.com/in/joaoHass"
-  style:
-    darkestColor: "#172A3A"
-    darkColor: "#004346"
-    lightColor: "#508991"
-    lightestColor: "#74B3CE"
-    primaryColor: "#09BC8A"
 
 menus:
 main:
