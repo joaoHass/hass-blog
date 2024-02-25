@@ -1,4 +1,4 @@
-code {
+code:not([data-lang]) {
   background: hsl(214, 24%, 24%);
   padding: 0.125em 0.5em;
   border-radius: 0.25em;
