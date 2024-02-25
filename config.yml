@@ -30,7 +30,6 @@ menus:
       name: "Home"
       pageRef: "/"
       weight: 10
-  tags:
     - identifier: "Tags"
       name: "Tags"
       pageRef: "/tags"
