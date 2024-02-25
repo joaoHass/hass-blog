@@ -2,7 +2,7 @@
 title: "Unable to Capture Screen: Troubleshooting Flameshot on Wayland"
 date: 2024-02-24T18:54:27-03:00
 tags: [linux]
-draft: true
+draft: false
 ---
 
 ## Lightshot alternative?
