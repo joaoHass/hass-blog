@@ -25,11 +25,13 @@ params:
       url: "https://linkedin.com/in/joaoHass"
 
 menus:
-main:
-  name: "Home"
-  pageRef: "/"
-  weight: 10
-tags:
-  name: "Tags"
-  pageRef: "/tags"
-  weight: 20
+  main:
+    - identifier: "Home"
+      name: "Home"
+      pageRef: "/"
+      weight: 10
+  tags:
+    - identifier: "Tags"
+      name: "Tags"
+      pageRef: "/tags"
+      weight: 20
